@@ -1,0 +1,6 @@
+Name : Sanya Bhola 
+Sem: 4th
+Project Name: Student Management System
+Frontend: Design( Swing)+Java
+Backend: MySQL Version 8.0.46 
+Software: Notepad
